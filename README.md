@@ -9,7 +9,5 @@
 	&emsp; &emsp; - Currently learning <br>
 	&emsp; &emsp; &emsp; &emsp; - Java <br>
 	&emsp; &emsp; - I Adore Minimalism <br>
-	&emsp; &emsp; - I love Reading Stoic Philosophy <br>
-	&emsp; &emsp; - I want to settle in a Nordic Country <br>
 	&emsp; &emsp; - Want to become a front end developer <br>
 </samp>
