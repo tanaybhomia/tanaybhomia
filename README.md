@@ -1,4 +1,4 @@
-<center>
+
 <h1>💻 Hello, I am Tanay</h1>
 
 ```Student & Photographer```
@@ -17,4 +17,3 @@ Working to build a strong github presence with building better projects.
 <img align="center" alt="Python" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="center" alt="C++" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="center" alt="GitHub" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</center>
