@@ -7,7 +7,8 @@ I am a student at Mumbai University, India studying Bsc IT and love programming,
 
 Working to build a strong github presence with building better projects.
 
-<h2> ✍️ Programming Languages <h2>
+## ✍️ Programming Languages
+
 <img align="center" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Linux" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
