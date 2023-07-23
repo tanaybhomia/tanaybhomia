@@ -1,5 +1,5 @@
 
-<h1>💻 Hello, I am Tanay</h1>
+# 💻 Hello, I am Tanay
 
 ```Student & Photographer```
 
