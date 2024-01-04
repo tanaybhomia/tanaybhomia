@@ -1,10 +1,6 @@
 <h1 align="center">Hi 🚀, I'm Tanay</h1>
 <h3 align="center">Interested in linux , FOSS and Computers in general</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaybhomia&label=Profile%20views&color=0e75b6&style=flat" alt="tanaybhomia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanaybhomia" alt="tanaybhomia" /></a> </p>
-
 - 🔭 I’m currently working on [DimeSage](https://github.com/tanaybhomia/FinSmart.Ai)
 
 - 🌱 I’m currently learning **JavaScript**
