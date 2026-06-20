@@ -16,4 +16,4 @@
 
 check out : [Whisp](https://github.com/TanayBhomia/Whisp)
 <br>
-support my work : ko-fi.com/tanaybhomia
+[Support my work](https://tanaybhomia.github.io/Whisp/donate.html)
