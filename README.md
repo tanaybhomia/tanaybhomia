@@ -4,7 +4,7 @@
 # こんにちは Welcome
 
 ▸ MCA Student  
-▸ Python Developer
+▸ Python Developer <br>
 ▸ Building Whisp — a distraction-free notes app    
 ▸ Music, films and good design
 
