@@ -1,4 +1,4 @@
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/9c02549e-6079-409e-b43f-f027801bdda9">
+<img width="100%" height="250px" alt="ChatGPT Image Jul 10, 2026, 12_50_58 PM" src="https://github.com/user-attachments/assets/10cf497f-97f5-48e0-b6cd-87548d245426" />
 
 
 # こんにちは Welcome
