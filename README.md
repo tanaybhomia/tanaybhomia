@@ -17,4 +17,4 @@
 check out : [Whisp](https://github.com/TanayBhomia/Whisp) | [Deep Dive](https://tanaybhomia.github.io/DeepDive/) 
 <br>
 
-[Support Me](https://tanaybhomia.github.io/donate.html)
+[Support Me 🗣️](https://tanaybhomia.github.io/donate.html)
