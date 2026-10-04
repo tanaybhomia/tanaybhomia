@@ -14,6 +14,7 @@
 
 <br>
 
-check out : [Whisp](https://github.com/TanayBhomia/Whisp)
+check out : [Whisp](https://github.com/TanayBhomia/Whisp) , [Deep Dive](https://tanaybhomia.github.io/DeepDive/) 
 <br>
+
 [Support my work](https://tanaybhomia.github.io/Whisp/donate.html)
