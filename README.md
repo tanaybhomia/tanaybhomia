@@ -11,6 +11,7 @@
 <br>
 
 *currently preparing for placements and building cool things*
+<br>
 Ps - Halted development because of hiring season in my college, I hope I get a job soon.
 
 <br>
